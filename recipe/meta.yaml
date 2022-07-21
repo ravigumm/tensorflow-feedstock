@@ -37,7 +37,7 @@ source:
     - 0311-Support-ppc64le-in-cpuinfo-dependency.patch
     - 0312-Updated-Eigen-for-power.patch                 #[ppc64le]
     - 0313-lite-Switch-to-Flatbuffer-2.0.5.patch
-    - 0314-EIGEN-grpc-fix-s390x-target.patch             #[s390x]
+    - 0314-s390x-fixes.patch             #[s390x]
     - 0315-hwloc-fix-s390x.patch                         #[s390x]
 
 build:
